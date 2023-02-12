@@ -83,6 +83,9 @@ body, html{
 .right-section .college p{
       margin: 5px 0px;
 }
+.right-section .college b:first-child{
+      font-weight: 500;
+}
 .right-section .college{
       margin-top: 25px;
 }
