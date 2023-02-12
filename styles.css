@@ -4,12 +4,9 @@ body, html{
       margin: 0px;
       background-color: #fff;
       font-family: 'Poppins', sans-serif;
-      overflow: hidden;
 }
 .main-contaner{
       display: flex;
-      overflow : hidden;
-      height : 100vh;
 }
 .profile-image{
       width: 250px;
@@ -26,7 +23,6 @@ body, html{
       padding-right: 10%;
       padding-top: 80px;
       padding-bottom: 80px;
-      overflow-y: auto;
       flex : 2;
 }
 .accent{
